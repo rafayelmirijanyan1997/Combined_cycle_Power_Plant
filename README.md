@@ -51,7 +51,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn statsmodels ucimlrepo
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/combined-cycle-power-plant-analysis.git
+git clone https://github.com/rafayelmirijanyan1997/Combined_cycle_Power_Plant.git
 ```
 
 ### **2️⃣ Navigate to the Repository Directory**
