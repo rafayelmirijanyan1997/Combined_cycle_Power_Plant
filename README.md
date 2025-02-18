@@ -82,6 +82,6 @@ This project is licensed under the **MIT License**. See the **LICENSE** file for
 
 ## 📬 Contact
 
-For any **questions** or **suggestions**, please feel free to **open an issue** or contact the repository owner.
+For any **questions** or **suggestions**, please feel free to **open an issue** or contact me.
 
-📌 _If you find this project useful, please ⭐ star the repository to support it!_
+
